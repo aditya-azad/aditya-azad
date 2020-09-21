@@ -5,4 +5,5 @@
 I am a software developer 😄
 
 - 🏠 My [homepage](https://www.adityaazad.com/)
+- 📮 Reach me through [email](mailto:adityaazad121@gmail.com)
 - ⚡ Fun fact: I also like to make [art](https://www.instagram.com/_aditya_azad_/)
